@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1080526450874",
+    "project_id": "line-7bbcd",
+    "storage_bucket": "line-7bbcd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1080526450874:android:7e6e496640e82af4f0d283",
+        "android_client_info": {
+          "package_name": "com.xcodelabs.line"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1080526450874-aknjsnbnk3f5uqdkc790ekhinm5p00uf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6IbrZWUrQWIwdN_gqXHBMloQLJiLw2j4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1080526450874-aknjsnbnk3f5uqdkc790ekhinm5p00uf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
